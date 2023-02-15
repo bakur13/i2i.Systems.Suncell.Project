@@ -2,9 +2,7 @@
 ![image](https://user-images.githubusercontent.com/108797599/219052704-f037b8b4-08cd-40d9-9e5e-68a9154def77.png)
 
 # What is SUNCELL?
-
-## SUNCELL is a android and web  telecommunication application that aims to show customers' package information. Customers can login, register, refresh password, see their personal information and lastly and especially see their package information.
-
+### SUNCELL is a android and web  telecommunication application that aims to show customers' package information. Customers can login, register, refresh password, see their personal information and lastly and especially see their package information.
 ## Which technologies are used in SUNCELL?
 - Hazelcast
 - VoltDB
