@@ -7,7 +7,7 @@
 - Hazelcast
 - VoltDB
 - Oracle DB
-- Rest API
+- Spring Framework
 - Kafka
   
 ## Project Team List
