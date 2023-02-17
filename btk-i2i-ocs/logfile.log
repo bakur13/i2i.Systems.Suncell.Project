@@ -1,0 +1,73 @@
+2023-02-15 14:03:58,352 INFO  [Logs] VoltDB Client Granted 
+2023-02-15 14:03:58,499 INFO  [Logs] Getting SUBSC_ID By MSISDN 
+2023-02-15 14:03:58,926 INFO  [Logs] Getting SUBSC_ID By MSISDN 
+2023-02-15 14:03:59,065 INFO  [Logs] Send amount of voice used to VoltDB 
+2023-02-15 14:05:00,905 INFO  [Logs] VoltDB Client Granted 
+2023-02-15 14:05:01,058 INFO  [Logs] Getting SUBSC_ID By MSISDN 
+2023-02-15 14:05:01,468 INFO  [Logs] Getting SUBSC_ID By MSISDN 
+2023-02-15 14:05:01,630 INFO  [Logs] Send amount of voice used to VoltDB 
+2023-02-15 14:07:08,584 INFO  [Logs] VoltDB Client Granted 
+2023-02-15 14:07:08,730 INFO  [Logs] Getting SUBSC_ID By MSISDN 
+2023-02-15 14:07:09,142 INFO  [Logs] Getting SUBSC_ID By MSISDN 
+2023-02-15 14:07:09,279 INFO  [Logs] Send amount of voice used to VoltDB 
+2023-02-15 14:08:50,167 INFO  [Logs] VoltDB Client Granted 
+2023-02-15 14:08:50,322 INFO  [Logs] Getting SUBSC_ID By MSISDN 
+2023-02-15 14:08:50,752 INFO  [Logs] Send amount of gb used to VoltDB 
+2023-02-15 14:22:21,180 INFO  [Logs] VoltDB Client Granted 
+2023-02-15 14:22:21,333 INFO  [Logs] Getting SUBSC_ID By MSISDN 
+2023-02-15 14:22:21,758 INFO  [Logs] Send amount of gb used to VoltDB 
+2023-02-15 14:34:02,822 INFO  [Logs] VoltDB Client Granted 
+2023-02-15 14:34:02,973 INFO  [Logs] Getting SUBSC_ID By MSISDN 
+2023-02-15 14:34:03,383 INFO  [Logs] Send amount of gb used to VoltDB 
+2023-02-15 21:28:31,539 INFO  [Logs] VoltDB Client Granted 
+2023-02-15 21:28:31,686 INFO  [Logs] Getting SUBSC_ID By MSISDN 
+2023-02-15 21:28:32,119 INFO  [Logs] Send amount of gb used to VoltDB 
+2023-02-15 21:37:44,331 INFO  [Logs] VoltDB Client Granted 
+2023-02-15 21:37:44,858 INFO  [Logs] Getting SUBSC_ID By MSISDN 
+2023-02-15 21:37:44,987 INFO  [Logs] Send amount of gb used to VoltDB 
+2023-02-15 21:40:55,235 INFO  [Logs] VoltDB Client Granted 
+2023-02-15 21:40:55,376 INFO  [Logs] Getting SUBSC_ID By MSISDN 
+2023-02-15 21:40:55,762 INFO  [Logs] Send amount of gb used to VoltDB 
+2023-02-15 21:53:46,770 INFO  [Logs] VoltDB Client Granted 
+2023-02-15 22:04:14,288 INFO  [Logs] VoltDB Client Granted 
+2023-02-16 10:08:35,824 INFO  [Logs] VoltDB Client Granted 
+2023-02-16 10:09:47,979 INFO  [Logs] VoltDB Client Granted 
+2023-02-16 10:17:38,670 INFO  [Logs] VoltDB Client Granted 
+2023-02-16 10:20:26,671 INFO  [Logs] VoltDB Client Granted 
+2023-02-16 10:24:51,572 INFO  [Logs] VoltDB Client Granted 
+2023-02-16 10:29:18,041 INFO  [Logs] VoltDB Client Granted 
+2023-02-16 10:30:38,303 INFO  [Logs] VoltDB Client Granted 
+2023-02-16 10:34:13,270 INFO  [Logs] VoltDB Client Granted 
+2023-02-16 10:43:14,580 INFO  [Logs] VoltDB Client Granted 
+2023-02-16 11:39:52,095 INFO  [Logs] VoltDB Client Granted 
+2023-02-16 11:50:17,053 INFO  [Logs] VoltDB Client Granted 
+2023-02-16 11:50:44,321 INFO  [Logs] VoltDB Client Granted 
+2023-02-16 11:53:02,272 INFO  [Logs] VoltDB Client Granted 
+2023-02-16 12:06:19,994 INFO  [Logs] VoltDB Client Granted 
+2023-02-16 12:10:38,404 INFO  [Logs] VoltDB Client Granted 
+2023-02-16 12:17:33,414 INFO  [Logs] VoltDB Client Granted 
+2023-02-16 12:22:03,597 INFO  [Logs] VoltDB Client Granted 
+2023-02-16 13:33:24,220 INFO  [Logs] VoltDB Client Granted 
+2023-02-16 13:37:16,278 INFO  [Logs] VoltDB Client Granted 
+2023-02-16 13:40:00,720 INFO  [Logs] VoltDB Client Granted 
+2023-02-16 13:41:18,451 INFO  [Logs] VoltDB Client Granted 
+2023-02-16 13:42:37,981 INFO  [Logs] VoltDB Client Granted 
+2023-02-16 13:43:21,775 INFO  [Logs] VoltDB Client Granted 
+2023-02-16 13:54:30,001 INFO  [Logs] VoltDB Client Granted 
+2023-02-16 14:05:41,209 INFO  [Logs] VoltDB Client Granted 
+2023-02-16 14:05:52,536 INFO  [Logs] VoltDB Client Granted 
+2023-02-16 14:48:18,711 INFO  [Logs] VoltDB Client Granted 
+2023-02-16 14:48:27,296 INFO  [Logs] VoltDB Client Granted 
+2023-02-16 14:54:23,136 INFO  [Logs] VoltDB Client Granted 
+2023-02-16 14:54:25,923 INFO  [Logs] VoltDB Client Granted 
+2023-02-16 14:57:50,902 INFO  [Logs] VoltDB Client Granted 
+2023-02-16 15:01:22,678 INFO  [Logs] VoltDB Client Granted 
+2023-02-16 15:05:53,682 INFO  [Logs] VoltDB Client Granted 
+2023-02-16 15:05:54,052 INFO  [Logs] VoltDB Client Granted 
+2023-02-16 15:11:51,105 INFO  [Logs] VoltDB Client Granted 
+2023-02-16 15:11:51,452 INFO  [Logs] VoltDB Client Granted 
+2023-02-16 15:53:35,212 INFO  [Logs] VoltDB Client Granted 
+2023-02-16 15:53:35,460 INFO  [Logs] VoltDB Client Granted 
+2023-02-16 15:53:35,610 INFO  [Logs] VoltDB Client Granted 
+2023-02-16 15:53:36,999 INFO  [Logs] VoltDB Client Granted 
+2023-02-16 16:28:36,640 INFO  [Logs] VoltDB Client Granted 
