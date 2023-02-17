@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.suncell.suncell.SuncellApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 3.766 s - in com.suncell.suncell.SuncellApplicationTests

@@ -1,0 +1,79 @@
+2023-02-15 11:34:04,224 INFO org.springframework.boot.StartupInfoLogger [main] Starting SuncellApplication using Java 17.0.5 on Mustafa-MacBook-Air.local with PID 40813 (/Users/mustafakucukkoc/Downloads/suncell/target/classes started by mustafakucukkoc in /Users/mustafakucukkoc/Downloads/suncell)
+2023-02-15 11:34:04,226 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.4.5, Spring v5.3.6
+2023-02-15 11:34:04,226 INFO org.springframework.boot.SpringApplication [main] The following profiles are active: prod
+2023-02-15 11:34:07,827 INFO org.springframework.boot.StartupInfoLogger [main] Started SuncellApplication in 4.339 seconds (JVM running for 4.975)
+2023-02-15 11:34:21,437 INFO com.suncell.rest.api.controllers.DenemeController [http-nio-8081-exec-8] Sisteme Login Başarılı bir şekilde yapılmıştır.
+2023-02-15 11:35:06,217 INFO org.springframework.boot.StartupInfoLogger [main] Starting SuncellApplication using Java 17.0.5 on Mustafa-MacBook-Air.local with PID 40853 (/Users/mustafakucukkoc/Downloads/suncell/target/classes started by mustafakucukkoc in /Users/mustafakucukkoc/Downloads/suncell)
+2023-02-15 11:35:06,218 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.4.5, Spring v5.3.6
+2023-02-15 11:35:06,218 INFO org.springframework.boot.SpringApplication [main] The following profiles are active: prod
+2023-02-15 11:35:09,731 INFO org.springframework.boot.StartupInfoLogger [main] Started SuncellApplication in 4.209 seconds (JVM running for 4.786)
+2023-02-15 11:35:14,273 INFO com.suncell.rest.api.controllers.DenemeController [http-nio-8081-exec-1] Sisteme Login Başarısızdır.
+2023-02-15 13:27:23,383 INFO org.springframework.boot.StartupInfoLogger [main] Starting SuncellApplication using Java 17.0.5 on Mustafa-MacBook-Air.local with PID 43675 (/Users/mustafakucukkoc/Downloads/suncell/target/classes started by mustafakucukkoc in /Users/mustafakucukkoc/Downloads/suncell)
+2023-02-15 13:27:23,384 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.4.5, Spring v5.3.6
+2023-02-15 13:27:23,385 INFO org.springframework.boot.SpringApplication [main] The following profiles are active: prod
+2023-02-15 13:27:26,695 INFO org.springframework.boot.StartupInfoLogger [main] Started SuncellApplication in 4.078 seconds (JVM running for 4.762)
+2023-02-15 13:30:16,382 INFO org.springframework.boot.StartupInfoLogger [main] Starting SuncellApplication using Java 17.0.5 on Mustafa-MacBook-Air.local with PID 43747 (/Users/mustafakucukkoc/Downloads/suncell/target/classes started by mustafakucukkoc in /Users/mustafakucukkoc/Downloads/suncell)
+2023-02-15 13:30:16,384 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.4.5, Spring v5.3.6
+2023-02-15 13:30:16,384 INFO org.springframework.boot.SpringApplication [main] The following profiles are active: prod
+2023-02-15 13:30:19,621 INFO org.springframework.boot.StartupInfoLogger [main] Started SuncellApplication in 3.979 seconds (JVM running for 4.536)
+2023-02-15 16:29:12,496 INFO org.springframework.boot.StartupInfoLogger [main] Starting SuncellApplication using Java 17.0.5 on Mustafa-MacBook-Air.local with PID 46803 (/Users/mustafakucukkoc/Downloads/suncell/target/classes started by mustafakucukkoc in /Users/mustafakucukkoc/Downloads/suncell)
+2023-02-15 16:29:12,499 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.4.5, Spring v5.3.6
+2023-02-15 16:29:12,499 INFO org.springframework.boot.SpringApplication [main] The following profiles are active: prod
+2023-02-15 16:29:14,906 ERROR org.springframework.boot.SpringApplication [main] Application run failed
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'subscriberController' defined in file [/Users/mustafakucukkoc/Downloads/suncell/target/classes/com/suncell/rest/api/controllers/SubscriberController.class]: Instantiation of bean failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [com.suncell.rest.api.controllers.SubscriberController]: Constructor threw exception; nested exception is java.lang.NoClassDefFoundError: com/hazelcast/client/config/ClientConfig
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateBean(AbstractAutowireCapableBeanFactory.java:1316)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1214)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:564)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:524)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:335)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:333)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:944)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:918)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:583)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:144)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:782)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:774)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:439)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:339)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1340)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1329)
+	at com.suncell.rest.api.SuncellApplication.main(SuncellApplication.java:34)
+Caused by: org.springframework.beans.BeanInstantiationException: Failed to instantiate [com.suncell.rest.api.controllers.SubscriberController]: Constructor threw exception; nested exception is java.lang.NoClassDefFoundError: com/hazelcast/client/config/ClientConfig
+	at org.springframework.beans.BeanUtils.instantiateClass(BeanUtils.java:225)
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:87)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateBean(AbstractAutowireCapableBeanFactory.java:1308)
+	... 18 common frames omitted
+Caused by: java.lang.NoClassDefFoundError: com/hazelcast/client/config/ClientConfig
+	at com.i2i.project.hzoperations.HzOperations.<init>(HzOperations.java:18)
+	at com.suncell.rest.api.repository.SubscriberRepository.<init>(SubscriberRepository.java:23)
+	at com.suncell.rest.api.controllers.SubscriberController.<init>(SubscriberController.java:22)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+	at org.springframework.beans.BeanUtils.instantiateClass(BeanUtils.java:212)
+	... 20 common frames omitted
+Caused by: java.lang.ClassNotFoundException: com.hazelcast.client.config.ClientConfig
+	at java.base/jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:641)
+	at java.base/jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:188)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:520)
+	... 29 common frames omitted
+2023-02-15 16:35:26,659 INFO org.springframework.boot.StartupInfoLogger [main] Starting SuncellApplication using Java 17.0.5 on Mustafa-MacBook-Air.local with PID 47089 (/Users/mustafakucukkoc/Downloads/suncell/target/classes started by mustafakucukkoc in /Users/mustafakucukkoc/Downloads/suncell)
+2023-02-15 16:35:26,661 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.4.5, Spring v5.3.6
+2023-02-15 16:35:26,661 INFO org.springframework.boot.SpringApplication [main] The following profiles are active: prod
+2023-02-15 16:35:30,639 INFO org.springframework.boot.StartupInfoLogger [main] Started SuncellApplication in 4.776 seconds (JVM running for 5.518)
+2023-02-15 16:41:21,045 INFO org.springframework.boot.StartupInfoLogger [main] Starting SuncellApplication using Java 17.0.5 on Mustafa-MacBook-Air.local with PID 47331 (/Users/mustafakucukkoc/Downloads/suncell/target/classes started by mustafakucukkoc in /Users/mustafakucukkoc/Downloads/suncell)
+2023-02-15 16:41:21,046 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.4.5, Spring v5.3.6
+2023-02-15 16:41:21,046 INFO org.springframework.boot.SpringApplication [main] The following profiles are active: prod
+2023-02-15 16:41:25,544 INFO org.springframework.boot.StartupInfoLogger [main] Started SuncellApplication in 5.314 seconds (JVM running for 5.996)
+2023-02-15 16:43:02,789 INFO org.springframework.boot.StartupInfoLogger [main] Starting SuncellApplication using Java 17.0.5 on Mustafa-MacBook-Air.local with PID 47385 (/Users/mustafakucukkoc/Downloads/suncell/target/classes started by mustafakucukkoc in /Users/mustafakucukkoc/Downloads/suncell)
+2023-02-15 16:43:02,791 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.4.5, Spring v5.3.6
+2023-02-15 16:43:02,791 INFO org.springframework.boot.SpringApplication [main] The following profiles are active: prod
+2023-02-15 16:43:07,049 INFO org.springframework.boot.StartupInfoLogger [main] Started SuncellApplication in 4.95 seconds (JVM running for 5.544)
+2023-02-15 16:43:53,798 INFO org.springframework.boot.StartupInfoLogger [main] Starting SuncellApplication using Java 17.0.5 on Mustafa-MacBook-Air.local with PID 47445 (/Users/mustafakucukkoc/Downloads/suncell/target/classes started by mustafakucukkoc in /Users/mustafakucukkoc/Downloads/suncell)
+2023-02-15 16:43:53,812 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.4.5, Spring v5.3.6
+2023-02-15 16:43:53,836 INFO org.springframework.boot.SpringApplication [main] The following profiles are active: prod
+2023-02-15 16:43:58,596 INFO org.springframework.boot.StartupInfoLogger [main] Started SuncellApplication in 5.796 seconds (JVM running for 6.486)
